@@ -1,0 +1,6 @@
+Credentials cache: API:F1060D33-5C0D-4B00-85DE-4FB93498D21F
+        Principal: yturan@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 11:24:50 2022  Feb  9 21:24:50 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Feb  9 11:24:53 2022  Feb  9 21:24:50 2022  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
